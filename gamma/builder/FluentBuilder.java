@@ -1,5 +1,8 @@
 package gamma.builder;
 
+/**
+ * Construir objetos em vários passos
+ */
 public class FluentBuilder {
 
     public static void main(String[] args) {
