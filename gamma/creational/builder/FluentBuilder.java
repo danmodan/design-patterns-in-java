@@ -1,4 +1,4 @@
-package gamma.builder;
+package gamma.creational.builder;
 
 /**
  * Construir objetos em vários passos

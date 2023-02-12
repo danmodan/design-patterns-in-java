@@ -1,4 +1,4 @@
-package gamma.factory;
+package gamma.creational.factory;
 
 /**
  * Construir/obter o objeto de uma única vez sem

@@ -1,4 +1,4 @@
-package gamma.prototype;
+package gamma.creational.prototype;
 
 import java.io.Serializable;
 

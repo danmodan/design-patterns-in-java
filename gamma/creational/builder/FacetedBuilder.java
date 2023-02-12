@@ -1,4 +1,4 @@
-package gamma.builder;
+package gamma.creational.builder;
 
 import java.math.BigDecimal;
 

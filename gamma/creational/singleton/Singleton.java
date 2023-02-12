@@ -1,4 +1,4 @@
-package gamma.singleton;
+package gamma.creational.singleton;
 
 import java.io.ObjectStreamException;
 import java.io.Serializable;

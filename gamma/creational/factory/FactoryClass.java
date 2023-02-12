@@ -1,4 +1,4 @@
-package gamma.factory;
+package gamma.creational.factory;
 
 /**
  * Obedece o Single Responsability Principle
